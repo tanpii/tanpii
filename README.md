@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**tanpii/tanpii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I0dTI4dWlhMDVtbTNidjJrdDk1dXltOTJzbXMzNXpkNXR4YmpoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZQCbV4OW1mXdHJNPS/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">hello, i'm tanya 👋</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+a little bit about me:
+- 👩🏼‍💻 19 y.o.
+- 💻 beginner frontend developer
+- 💡 software engineering student
+
+main stack:
+- HTML, CSS, JavaScript
+- React
+- TypeScript
+- Java
+  
+
