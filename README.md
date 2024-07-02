@@ -11,7 +11,7 @@ a little bit about me:
 - 💡 software engineering student
 
 main stack:
-- HTML, CSS, JavaScript
+- JavaScript
 - React
 - TypeScript
 - Java
