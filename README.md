@@ -6,7 +6,7 @@
 <h2 align="center">hello, i'm tanya 👋</h2>
 
 a little bit about me:
-- 👩🏼‍💻 19 y.o.
+- 👩🏼‍💻 20 y.o.
 - 💻 beginner frontend developer
 - 💡 software engineering student
 
